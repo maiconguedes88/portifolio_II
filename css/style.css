@@ -308,7 +308,7 @@ header nav i.fa-bars{
         display: none;
     }
     .section-div {
-        background-image: url(/pessoa.png);
+        background-image: url(../img/pessoa.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -893,7 +893,7 @@ footer .footer_comercial {
         display: none;
     }
     .section-div{
-        background-image: url(../pessoa.png);
+        background-image: url(../img/pessoa.png);
         background-repeat: no-repeat;
         background-size: cover;
         
